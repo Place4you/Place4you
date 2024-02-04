@@ -10,8 +10,7 @@
 
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://bit.ly/3ubstLD<br><br>📝 I regularly write articles on https://bit.ly/3w5CqL6<br><br>💬 Ask me about HTML5, CSS3, Javascript, Typescript, Saas, GSAP, React<br><br>📫 How to reach me sadiraja500@gmail.com<br><br>📄 Know about my experiences https://bit.ly/3w68AGf
-
+👨‍💻 All of my projects are available at <a href="https://bit.ly/3ubstLD" target="_blank">https://bit.ly/3ubstLD</a><br><br> 📝 I regularly write articles on <a href="https://bit.ly/3w5CqL6" target="_blank">https://bit.ly/3w5CqL6</a><br><br> 💬 Ask me about HTML5, CSS3, Javascript, Typescript, Saas, GSAP, React<br><br> 📫 How to reach me sadiraja500@gmail.com<br><br> 📄 Know about my experiences <a href="https://bit.ly/3w68AGf" target="_blank">https://bit.ly/3w68AGf</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadi_raja786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadatali786) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadi_raja1) 
