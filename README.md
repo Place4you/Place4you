@@ -1,5 +1,5 @@
 <h1 align="center">Welcome Coders, Saadat Here!</h1>
-<h3 align="center">A passionate frontend developer from Kashmir,AJK</h3>
+<h3 align="center">A passionate Frontend developer from Kashmir,AJK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=place4you&label=Profile%20views&color=0e75b6&style=flat" alt="place4you" /> </p>
 
