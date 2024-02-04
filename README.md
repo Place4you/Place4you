@@ -1,6 +1,7 @@
 ![logo](https://github.com/Place4you/Place4you/blob/main/Github%20Banner.jpg)
 <h1 align="center">Welcome Coders, Saadat Here!</h1>
 <h3 align="center">A passionate Frontend developer from Kashmir,AJK</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you" /></p>
 
 # 💫 About Me:
 👨‍💻 All of my projects are available at https://bit.ly/3ubstLD<br><br>📝 I regularly write articles on https://bit.ly/3w5CqL6<br><br>💬 Ask me about HTML5, CSS3, Javascript, Typescript, Saas, GSAP, React<br><br>📫 How to reach me sadiraja500@gmail.com<br><br>📄 Know about my experiences https://bit.ly/3w68AGf
@@ -17,11 +18,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=/Place4you&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=/Place4you&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Place4you&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=/Place4you&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Place4you&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you" /></p>
