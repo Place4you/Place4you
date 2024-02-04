@@ -6,7 +6,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Place4you&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Place4you&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Place4you&icon=0&color=orange)](https://visitcount.itsvg.in)
 
 
 # 💫 About Me:
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="60%" height="195px"/>
   </a>
 </p>
 
