@@ -31,7 +31,7 @@
 <br />
 
   <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="60%" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="60%" height="195px" style="align:left;" />
   </a>
 </div>
 
