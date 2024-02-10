@@ -21,17 +21,17 @@
 # ✨ GitHub Stats:
 <div>
   <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=light&hide_border=false&include_all_commits=true&count_private=false" alt="place4you's GitHub stats" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=light&hide_border=false&include_all_commits=true&count_private=false" alt="place4you's GitHub stats" width="400px" height="195px"/>
   </a>
   <br />
   <a href="https://github.com/place4you">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=light&hide_border=false" alt="place4you's GitHub streaks" height="195px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=light&hide_border=false" alt="place4you's GitHub streaks" width="400px" height="195px"/>
   </a>
 
 <br />
 
   <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="60%" height="195px" style="align:left;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="400px" height="195px" style="align:left;" />
   </a>
 </div>
 
