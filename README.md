@@ -3,53 +3,47 @@
 <h3 align="center">A passionate Fullstack developer from Kashmir,AJK</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Place4you&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Place4you&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Place4you&icon=0&color=#FF5E32)](https://visitcount.itsvg.in)
 
+[![Profile Visits](https://visitcount.itsvg.in/api?id=Place4you&icon=2&color=0&bg=6C6E90)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at <a href="https://bit.ly/3ubstLD" target="_blank">https://bit.ly/3ubstLD</a><br><br> 📝 I regularly write articles on <a href="https://bit.ly/3w5CqL6" target="_blank">https://bit.ly/3w5CqL6</a><br><br> 💬 Ask me about HTML5, CSS3, Javascript, Saas, GSAP, React, Laravel<br><br> 📫 How to reach me sadiraja500@gmail.com<br><br> 📄 Know about my experiences <a href="https://bit.ly/3w68AGf" target="_blank">https://bit.ly/3w68AGf</a>
+- 🌍 [Portfolio Website](https://bit.ly/3ubstLD)  
+- 📝 [My Articles](https://bit.ly/3w5CqL6)  
+- 📫 Reach me at **sadiraja500@gmail.com**  
+- 🧑‍💻 Tech Stack: HTML5, CSS3, Javascript, React, Laravel  
+- 📄 [Resume](https://bit.ly/3w68AGf)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadi_raja786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadatali786) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadi_raja1) 
+---
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadatali786) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sadi_raja786) 
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/sadi_raja1)
+
+---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/blade-%23F80000.svg?style=for-the-badge&logo=blade&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![ELM](https://img.shields.io/badge/elm-%230C6F68.svg?style=for-the-badge&logo=elm&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</div>
 
+---
 
 # ✨ GitHub Stats:
-<div style="align:left;>
-  <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=light&hide_border=false&include_all_commits=true&count_private=false" alt="place4you's GitHub stats" width="400px" height="195px"/>
-  </a>
-  <br />
-  <a href="https://github.com/place4you">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=light&hide_border=false" alt="place4you's GitHub streaks" width="400px" height="195px"/>
-  </a>
-
-<br />
-
-  <a href="https://github.com/place4you">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=place4you&show_icons=true&locale=en&layout=compact" alt="place4you's top languages" width="400px" height="195px" style="align:left; margin-left:0;" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=tokyonight&hide_border=true" width="400px" alt="GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=place4you&layout=compact&theme=tokyonight&hide_border=true" width="400px" alt="Top Languages" />
 </div>
+
 
