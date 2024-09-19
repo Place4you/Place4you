@@ -4,12 +4,12 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Place4you&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Place4you&column=6&margin-w=15&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Place4you&icon=2&color=0&bg=6C6E90)](https://visitcount.itsvg.in)
+[![Profile Visits](https://visitcount.itsvg.in/api?id=Place4you&icon=0&color=6C6E90)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 - 🌍 [Portfolio Website](https://bit.ly/3ubstLD)  
@@ -40,10 +40,16 @@
 ---
 
 # ✨ GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=tokyonight&hide_border=true" width="400px" alt="GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=place4you&layout=compact&theme=tokyonight&hide_border=true" width="400px" alt="Top Languages" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/place4you">
+    <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/place4you">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=vue-dark&hide_border=true" width="48%" alt="GitHub Streaks" />
+  </a>
+  <a href="https://github.com/place4you">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=place4you&layout=compact&theme=vue-dark&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
 </div>
 
 
