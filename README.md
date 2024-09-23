@@ -54,7 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=place4you&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   </a>
 <a href="https://github.com/place4you">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=vue-dark&hide_border=true&ring=FF4500&currStreakLabel=FF4500&fire=FF4500&currStreakNum=FF4500&sideNums=4CAF50&sideLabels=4CAF50" width="48%" alt="GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=place4you&theme=vue-dark&hide_border=true&ring=FF4500&currStreakLabel=#FFFFFF&fire=FF4500&currStreakNum=FF4500&sideNums=4CAF50&sideLabels=4CAF50" width="48%" alt="GitHub Streaks" />
 </a>
 
   <a href="https://github.com/place4you">
